@@ -1,4 +1,4 @@
-#thesis_code
+# Influence of hand movements on saccadic inhibition 
 
 In this study we investigated a possible indirect modulation of saccadic inhibition through changed eye movement patterns in the presence of concomitant hand movements. We were interested in seeing if there is an influence on saccadic inhibition in an interactive task involving the hands compared to solely tracking the target with the eyes.
 
